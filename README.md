@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThomasBasquin, young student
 - 👀 I’m interested in development
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me : thomas.basquin2@gmail.com
 
 <!---
