@@ -18,6 +18,7 @@
 <br>
 <h2 align="left">Thomas Stat 📈</h1>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thomasbasquin&show_icons=true&locale=en&layout=compact" alt="thomasbasquin" /></p> 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=thomasbasquin&show_icons=true&locale=en" alt="thomasbasquin" /></p>
 
