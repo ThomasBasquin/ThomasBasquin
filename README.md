@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://thomasbasquin.github.io/](https://thomasbasquin.github.io/)
+- 👨‍💻 All of my projects are available at **WIP**
 
 - 📫 How to reach me **thomas.basquin2@gmail.com**
 
