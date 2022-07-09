@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [my Portfolio](https://thomasbasquin.github.io/)
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://thomasbasquin.github.io/](https://thomasbasquin.github.io/)
 
