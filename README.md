@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
-<h3 align="center">A passionate IT student from Metz</h3>
+<h3 align="center">A passionate IT student from Strasbourg</h3>
 <br>
 
 - 🔭 I’m currently working on [my Portfolio](https://thomasbasquin.github.io/)
