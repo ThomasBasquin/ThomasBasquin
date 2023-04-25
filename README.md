@@ -1,10 +1,10 @@
 <h1 align="center">Salut 👋, je suis Thomas</h1>
-<h3 align="center">Un étudiant passionné d'informatique à Strasbourg</h3>
+<h3 align="center">Un étudiant passionné de front-end basé à Strasbourg</h3>
 
 <p align="center">
   <a href="https://thomasbasquin.github.io/"><img src="https://img.shields.io/badge/Portfolio-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:thomas.basquin2@gmail.com"><img src="https://img.shields.io/badge/Contact-2A2A2A?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Contact" /></a>
-  <a href="https://linkedin.com/in/thomasbasquin" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/thomas-basquin" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ### 🛠️ Compétences techniques
