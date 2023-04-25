@@ -1,26 +1,39 @@
-<h1 align="center">Hi 👋, I'm Thomas</h1>
-<h3 align="center">A passionate IT student from Strasbourg</h3>
-<br>
+<h1 align="center">Salut 👋, je suis Thomas</h1>
+<h3 align="center">Un étudiant passionné d'informatique à Strasbourg</h3>
 
-- 🔭 I’m currently working on [my Portfolio](https://thomasbasquin.github.io/)
-
-- 🌱 I’m currently learning **React**
-
-- 👨‍💻 All of my projects are available at **WIP**
-
-- 📫 How to reach me **thomas.basquin2@gmail.com**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/thomas basquin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thomas basquin" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://thomasbasquin.github.io/"><img src="https://img.shields.io/badge/Portfolio-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:thomas.basquin2@gmail.com"><img src="https://img.shields.io/badge/Contact-2A2A2A?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Contact" /></a>
+  <a href="https://linkedin.com/in/thomasbasquin" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-<br>
-<h2 align="left">Thomas Stat 📈</h1>
+### 🛠️ Compétences techniques
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thomasbasquin&show_icons=true&locale=en&layout=compact" alt="thomasbasquin" /></p> 
+- Langages de programmation : **JavaScript, Python, Java**
+- Frameworks/librairies : **React, Node.js, Express.js, Vue.js, React native**
+- Bases de données : **MySQL, MongoDB**
+- Outils de développement : **Git, GitHub, Gitlab, Visual Studio Code, Postman, Figma, Docker**
+- Autres compétences : **HTML5, CSS3, Tailwind, Responsive Design, APIs, RPA**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=thomasbasquin&show_icons=true&locale=en" alt="thomasbasquin" /></p>
+### 📚 Actuellement en train d'apprendre
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thomasbasquin&" alt="thomasbasquin" /></p>
+- Développement d'applications mobiles avec **Kotlin**
+- Maîtrise de **TypeScript** pour améliorer mon code JavaScript
+- Découverte de **Tailwind** pour le style de mes sites web
+
+### 📦 Projets récents
+
+- [**Pokedex**](https://github.com/ThomasBasquin/Pokedex) : Un pokedex stylisé (React.js, Pokeapi, Tailwind) 
+- [**PhotoNas**](https://github.com/ThomasBasquin/Android-NAS-Photo-Transfer) : Une application permettant de synchroniser ses photos sur son NAS personnel (Kotlin)
+
+### 📈 Statistiques GitHub
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=thomasbasquin&show_icons=true&locale=fr&layout=compact" alt="thomasbasquin" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=thomasbasquin&show_icons=true&locale=fr" alt="thomasbasquin" /></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thomasbasquin&" alt="thomasbasquin" /></td>
+  </tr>
+</table>
