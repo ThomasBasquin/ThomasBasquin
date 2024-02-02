@@ -11,13 +11,12 @@
 
 - Langages de programmation : **JavaScript, Python, Java**
 - Frameworks/librairies : **React, Node.js, Express.js, Vue.js, React native**
-- Bases de données : **MySQL, MongoDB**
+- Bases de données : **MySQL, MongoDB, PostreSQL**
 - Outils de développement : **Git, GitHub, Gitlab, Visual Studio Code, Postman, Figma, Docker**
 - Autres compétences : **HTML5, CSS3, Tailwind, Responsive Design, APIs, RPA**
 
 ### 📚 Actuellement en train d'apprendre
 
-- Développement d'applications mobiles avec **Kotlin**
 - Maîtrise de **TypeScript** pour améliorer mon code JavaScript
 - Découverte de **Tailwind** pour le style de mes sites web
 
