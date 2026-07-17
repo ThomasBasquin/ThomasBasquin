@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, je suis Thomas</h1>
-<h3 align="center">Un étudiant passionné de Web et Data à Strasbourg</h3>
+<h3 align="center">Un développeur spécialisé dans le web à Strasbourg</h3>
 
 <p align="center">
   <a href="https://thomasbasquin.github.io/"><img src="https://img.shields.io/badge/Portfolio-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Portfolio" /></a>
