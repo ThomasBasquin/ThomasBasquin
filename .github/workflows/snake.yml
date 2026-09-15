@@ -19,8 +19,47 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#ffa657&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
+
+      - name: strip percentile bar
+        run: |
+          python3 - <<'PY'
+          import re
+
+          path = "dist/github-contribution-grid-snake-dark.svg"
+          with open(path, "r", encoding="utf-8") as f:
+              svg = f.read()
+
+          svg = re.sub(r'<rect class="u [^"]*"[^>]*/>', "", svg)
+          svg = re.sub(r"\.u\{[^}]*\}", "", svg)
+          svg = re.sub(r"\.u\.u[0-9a-z]+\s*\{[^}]*\}", "", svg)
+
+          def strip_keyframes(svg, prefix):
+              out = []
+              i = 0
+              pattern = re.compile(r"@keyframes " + prefix + r"[0-9a-z]+\{")
+              while True:
+                  m = pattern.search(svg, i)
+                  if not m:
+                      out.append(svg[i:])
+                      break
+                  out.append(svg[i:m.start()])
+                  depth = 1
+                  j = m.end()
+                  while depth > 0:
+                      if svg[j] == "{":
+                          depth += 1
+                      elif svg[j] == "}":
+                          depth -= 1
+                      j += 1
+                  i = j
+              return "".join(out)
+
+          svg = strip_keyframes(svg, "u")
+
+          with open(path, "w", encoding="utf-8") as f:
+              f.write(svg)
+          PY
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
