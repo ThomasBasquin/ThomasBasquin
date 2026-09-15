@@ -21,14 +21,10 @@
 - [**Pokedex**](https://github.com/ThomasBasquin/Pokedex) — Pokedex stylisé avec recherche instantanée et animations. Next.js, Tailwind.
 - [**Peace Preamp OSD**](https://github.com/ThomasBasquin/peace-preamp-ahk) — Script AutoHotkey v2 pilotant le préamp d'Equalizer APO avec overlay OSD.
 
-### 📈 Statistiques GitHub
+### 📈 Activité
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=thomasbasquin&show_icons=true&locale=fr&layout=compact" alt="thomasbasquin" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=thomasbasquin&show_icons=true&locale=fr" alt="thomasbasquin" /></td>
-  </tr>
-  <tr>
-    <td colspan="2"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thomasbasquin&" alt="thomasbasquin" /></td>
-  </tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThomasBasquin/ThomasBasquin/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThomasBasquin/ThomasBasquin/output/github-contribution-grid-snake.svg" />
+  <img alt="Animation du graphe de contributions GitHub" src="https://raw.githubusercontent.com/ThomasBasquin/ThomasBasquin/output/github-contribution-grid-snake.svg" />
+</picture>
