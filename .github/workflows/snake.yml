@@ -19,7 +19,7 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#ffa657&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
+            dist/github-contribution-grid-snake-dark.svg?color_snake=purple&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
 
       - name: fix dist ownership
         run: sudo chown -R "$(id -u)":"$(id -g)" dist
