@@ -19,7 +19,7 @@
 - [**Nook**](https://github.com/ThomasBasquin/nook) — PWA de suivi de bibliothèque (jeux, films, séries, animés, livres). Next.js, Drizzle/SQLite, auth, cache client, en production.
 - [**Vitrine ostéopathe**](https://github.com/ThomasBasquin/vitrine-osteo) — Site vitrine statique pour une praticienne, livré à une cliente réelle. Astro.
 - [**Pokedex**](https://github.com/ThomasBasquin/Pokedex) — Pokedex stylisé avec recherche instantanée et animations. Next.js, Tailwind.
-- [**Quiz ostéo**](https://github.com/ThomasBasquin/quiz-osteo) — Quiz interactif animé. React, Vite, Zustand.
+- [**Peace Preamp OSD**](https://github.com/ThomasBasquin/peace-preamp-ahk) — Script AutoHotkey v2 pilotant le préamp d'Equalizer APO avec overlay OSD.
 
 ### 📈 Statistiques GitHub
 
