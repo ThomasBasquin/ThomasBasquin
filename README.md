@@ -21,10 +21,6 @@
 - [**Pokedex**](https://github.com/ThomasBasquin/Pokedex) — Pokedex stylisé avec recherche instantanée et animations. Next.js, Tailwind.
 - [**Peace Preamp OSD**](https://github.com/ThomasBasquin/peace-preamp-ahk) — Script AutoHotkey v2 pilotant le préamp d'Equalizer APO avec overlay OSD.
 
-### 📈 Activité
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThomasBasquin/ThomasBasquin/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThomasBasquin/ThomasBasquin/output/github-contribution-grid-snake.svg" />
-  <img alt="Animation du graphe de contributions GitHub" src="https://raw.githubusercontent.com/ThomasBasquin/ThomasBasquin/output/github-contribution-grid-snake.svg" />
-</picture>
+<p align="center">
+  <img alt="Animation du graphe de contributions GitHub" src="https://raw.githubusercontent.com/ThomasBasquin/ThomasBasquin/output/github-contribution-grid-snake-dark.svg" />
+</p>
