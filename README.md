@@ -10,12 +10,14 @@
 ### 🛠️ Stack
 
 - **Langages** : TypeScript, JavaScript
-- **Frontend** : React, Next.js, Astro, Tailwind CSS, Framer Motion
+- **Frontend** : React, Next.js, Svelte 5 / SvelteKit, Astro, Tailwind CSS, Framer Motion
 - **Backend / données** : Node.js, Drizzle ORM, SQLite, Better-auth
-- **Outils** : Git, Vite, Docker, Playwright
+- **Tests / outils** : Vitest, Playwright, Git, Vite, Docker, pnpm
+- **Déploiement** : VPS Linux, nginx, systemd, Cloudflare, Backblaze B2
 
 ### 📦 Projets
 
+- [**Runway**](https://finsim.thomasbasquin.fr) — Simulateurs de finance jouables dans le navigateur : diriger les finances d'une entreprise sur plusieurs décennies (CFO Heritage) ou gérer un fonds d'investissement (Alpha Fund). Moteur de simulation déterministe en TypeScript pur, sauvegarde des parties par compte. SvelteKit, Drizzle/SQLite, Better-auth, Vitest, en production.
 - [**Nook**](https://github.com/ThomasBasquin/nook) — PWA de suivi de bibliothèque (jeux, films, séries, animés, livres). Next.js, Drizzle/SQLite, auth, cache client, en production.
 - [**Vitrine ostéopathe**](https://github.com/ThomasBasquin/vitrine-osteo) — Site vitrine statique pour une praticienne, livré à une cliente réelle. Astro.
 - [**Pokedex**](https://github.com/ThomasBasquin/Pokedex) — Pokedex stylisé avec recherche instantanée et animations. Next.js, Tailwind.
