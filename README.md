@@ -17,9 +17,9 @@
 
 ### 📦 Projets
 
-- [**Runway**](https://finsim.thomasbasquin.fr) — Simulateurs de finance jouables dans le navigateur : diriger les finances d'une entreprise sur plusieurs décennies (CFO Heritage) ou gérer un fonds d'investissement (Alpha Fund). Moteur de simulation déterministe en TypeScript pur, sauvegarde des parties par compte. SvelteKit, Drizzle/SQLite, Better-auth, Vitest, en production.
+- [**Runway**](https://runway.thomasbasquin.fr) — Simulateurs de finance jouables : piloter une entreprise ou un fonds d'investissement. SvelteKit, Drizzle/SQLite, en production.
 - [**Nook**](https://github.com/ThomasBasquin/nook) — PWA de suivi de bibliothèque (jeux, films, séries, animés, livres). Next.js, Drizzle/SQLite, auth, cache client, en production.
-- [**Vitrine ostéopathe**](https://github.com/ThomasBasquin/vitrine-osteo) — Site vitrine statique pour une praticienne, livré à une cliente réelle. Astro.
+- [**Vitrine ostéopathe**](https://github.com/ThomasBasquin/vitrine-osteo) — Site vitrine statique pour une ostéopathe. Astro.
 - [**Pokedex**](https://github.com/ThomasBasquin/Pokedex) — Pokedex stylisé avec recherche instantanée et animations. Next.js, Tailwind.
 - [**Peace Preamp OSD**](https://github.com/ThomasBasquin/peace-preamp-ahk) — Script AutoHotkey v2 pilotant le préamp d'Equalizer APO avec overlay OSD.
 
