@@ -18,9 +18,9 @@
 ### 📦 Projets
 
 - [**Runway**](https://runway.thomasbasquin.fr) — Simulateurs de finance jouables : piloter une entreprise ou un fonds d'investissement. SvelteKit, Drizzle/SQLite, en production.
-- [**Nook**](https://github.com/ThomasBasquin/nook) — PWA de suivi de bibliothèque (jeux, films, séries, animés, livres). Next.js, Drizzle/SQLite, auth, cache client, en production.
-- [**Vitrine ostéopathe**](https://github.com/ThomasBasquin/vitrine-osteo) — Site vitrine statique pour une ostéopathe. Astro.
-- [**Pokedex**](https://github.com/ThomasBasquin/Pokedex) — Pokedex stylisé avec recherche instantanée et animations. Next.js, Tailwind.
+- [**Nook**](https://nook.thomasbasquin.fr) — PWA de suivi de bibliothèque (jeux, films, séries, animés, livres). Next.js, Drizzle/SQLite, auth, cache client, en production.
+- [**Vitrine ostéopathe**](https://mariewach.fr) — Site vitrine statique pour une ostéopathe. Astro.
+- [**Pokedex**](https://pokedex.thomasbasquin.fr) — Pokedex stylisé avec recherche instantanée et animations. Next.js, Tailwind.
 - [**Peace Preamp OSD**](https://github.com/ThomasBasquin/peace-preamp-ahk) — Script AutoHotkey v2 pilotant le préamp d'Equalizer APO avec overlay OSD.
 
 
