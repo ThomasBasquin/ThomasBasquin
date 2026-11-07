@@ -9,7 +9,7 @@
 
 ### 🛠️ Stack
 
-- **Langages** : TypeScript, JavaScript
+- **Langages** : TypeScript, JavaScript, Swift, PowerShell
 - **Frontend** : React, Next.js, Svelte 5 / SvelteKit, Astro, Tailwind CSS, Framer Motion
 - **Backend / données** : Node.js, Drizzle ORM, SQLite, Better-auth
 - **Tests / outils** : Vitest, Playwright, Git, Vite, Docker, pnpm
@@ -21,7 +21,13 @@
 - [**Nook**](https://nook.thomasbasquin.fr) — PWA de suivi de bibliothèque (jeux, films, séries, animés, livres). Next.js, Drizzle/SQLite, auth, cache client, en production.
 - [**Vitrine ostéopathe**](https://mariewach.fr) — Site vitrine statique pour une ostéopathe. Astro.
 - [**Pokedex**](https://pokedex.thomasbasquin.fr) — Pokedex stylisé avec recherche instantanée et animations. Next.js, Tailwind.
-- [**Peace Preamp OSD**](https://github.com/ThomasBasquin/peace-preamp-ahk) — Script AutoHotkey v2 pilotant le préamp d'Equalizer APO avec overlay OSD.
+
+### 🧰 Petits projets
+
+- [**Virtual Deck**](https://github.com/ThomasBasquin/virtual-deck) — Raccourcis et deck à l'écran pour piloter un PC de jeu sans gêner les anti-cheats : égaliseur, micro, HDR, second écran, overclock, alertes de température. PowerShell.
+- **Ariane** — Lanceur macOS au look de Spotlight, qui affiche apps et fichiers dès la première lettre, sans recherche web. Swift, SwiftUI.
+- **ClaudeBar** — Icône de barre des menus qui s'allume quand une session Claude Code attend une réponse. Swift, extension VS Code.
+- **Shunt** — Icône de barre des menus qui n'apparaît que si le Mac est mal alimenté. Swift, C.
 
 
 <p align="center">
